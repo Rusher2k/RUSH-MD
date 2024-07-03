@@ -11,18 +11,13 @@ ___
 
 
 
-
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT](https://imgur.com/a/f33MxN5)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+[![ROMEK-XD-BOT](https://telegra.ph/file/9486f552be0cd9ab233fa.jpg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 </p>
 
+> :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
-> :octocat: Don't forget to check out! :point_right: [RUSH MD](https://github.com/Rushmaster12/RUSH-MD)
-
-[![RUSH-MD](https://imgur.com/a/f33MxN5)](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
-</p>
-
-   
+  
  
 
 <h1 align="center"> ℹ️ BOT INFO
@@ -37,7 +32,7 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 
 
  
-<h1 align="center"> ☯️RUSH-MD ☯️
+<h1 align="center"> ☯️𝚪𝐔𝐒𝚮-𝚳𝘿☯️
 </p>
  
 ---------
@@ -45,7 +40,7 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 </p>
 
 </a>
-   <a aria-label="RUSH-MD is free to use" href="Follow channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S" target="_blank">
+   <a aria-label="𝚪𝐔𝐒𝚮-𝚳𝘿 is free to use" href="Follow channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{Rushmaster12}/count.svg" alt="Rushmaster12:: Visitor's Count" /></p>
 
 
@@ -82,14 +77,6 @@ ___
 
 ## 📲`Installation Process`📲
 
-___
-- FORK THE REPOSITORY
-
-<a href="https://github.com/Rushmaster12/RUSH-MD/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK RUSH-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
-
-___
 
 - 💐 PAIR-CODE 💐
 
@@ -116,7 +103,22 @@ ___
 
 ☉ If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shi___
+- FORK THE REPOSITORY
+
+<a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+___
+
+- 💐 PAIR-CODE 💐
+
+
+
+<a href="https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app" target="_blank">
+  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>elds.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ☉Now Deploy
     <br>
@@ -227,9 +229,10 @@ ___
 
 ## 💐Do you need help💐
 This is the section that provides help. 
-- [TUTORIAL](https://github.com/Rushmaster12/HOW-TO-DEPLOY-RUSH-MD) 
-- [JOIN CHANNEL FOR UPDATES](Follow the Ethix-MD channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S) 
+- [TUTORIAL](https://github.com/Xcelsama/HOW-TO-DEPLOY-STAR-MD-V2) 
+- [JOIN CHANNEL FOR UPDATES](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X) 
 - [MESSAGE DEVELOPER](https://wa.me/+917020728211) 
+
 
 
 
