@@ -1,4 +1,4 @@
 /**
- * @STAR
- * https://github.com/Xcelsama/STAR-MD-V2
+ * @RUSH
+ * https://github.com/Rushmaster12/RUSH-MD
  */
