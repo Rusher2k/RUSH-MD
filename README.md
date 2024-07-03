@@ -92,15 +92,14 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 ##  ✒️DEPLOYMENT✒️
 ___
 
-#### DEPLOY TO HEROKU 
+### DEPLOY TO HEROKU
 
-☉ If You don't have a account in Heroku. Create a account.
-<br><a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shi___
-- FORK THE REPOSITORY
-
-<a href="https://github.com/Rushmaster12/RUSH-MD/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK RUSH-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
+1. If you don't have an account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ___
 
