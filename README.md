@@ -220,9 +220,9 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 ___
 - BAILEYS BY  WHISJEYSOCKETS & ADIWAJSHING
  
-- BASE BY RUSH 
+- BASE BY 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪☯️
 
-- THANKS TO RUSH-MASTER
+- THANKS TO 𝚪𝐔𝐒𝚮-𝚳𝘿
 ___
 
 
@@ -231,7 +231,9 @@ ___
 This is the section that provides help. 
 - [TUTORIAL](https://github.com/Xcelsama/HOW-TO-DEPLOY-STAR-MD-V2) 
 - [JOIN CHANNEL FOR UPDATES](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X) 
-- [MESSAGE DEVELOPER](https://wa.me/+917020728211) 
+- [MESSAGE DEVELOPER](https://wa.me/+917020728211)
+
+[MESSAGE DEVELOPER](https://wa.me/+917005439105)
 
 
 
@@ -248,3 +250,8 @@ This is the section that provides help.
 
 ## `💀DEVELOPER💀` 
 <a href="https://github.com/Rushmaster12"><img src="https://github.com/Rushmaster12.png" width="250" height="250" alt="Rushmaster12"/></a>
+
+
+## `💀𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐄𝐑💀`
+<a href="https://github.com/manojnath124"><img src="https://github.com/Rushmaster12.png" width="250" height="250" alt="Rushmaster12"/></a>
+
