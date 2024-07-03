@@ -1,4 +1,4 @@
-# UNDER MAINTENANCE DO NOT DEPLOY
+# ⚠ WORKING ON UPDATES ⚠
 
 ## `⭐Star This Repo⭐` 
 
@@ -16,12 +16,17 @@ ___
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
-[![STAR-MD-V2](https://telegra.ph/file/90db75d05675c7fae7dd0.jpg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+[![STAR-MD-V2](https://i.imgur.com/2gd0YRc.jpeg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 </p>
 
- ℹ️ **ABOUT STAR-MD-V2**
+   
+ 
 
-_STAR-MD-V2 is a 🌟 versatile Multi-Device WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease._
+<h1 align="center"> ℹ️ BOT INFO
+</p>
+  
+##
+STAR-MD-V2 is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
 
 ---------
 
@@ -81,27 +86,25 @@ ___
   <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
+___
 
 - 💐 PAIR-CODE 💐
 
 
 
-<a href="https://replit.com/@Xcelsama/corSTAR-MD-PAIRor?s=app" target="_blank">
-  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
-
-
-- 💐 PAIR-CODE 2 💐
-
-
-<a href="https://replit.com/@Xcelsama/cSTAR-MD-V2-PAIR?s=app" target="_blank">
+<a href="https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app" target="_blank">
   <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
 
 
-___
+
+
+
+
+
+#
 
 ##  ✒️DEPLOYMENT✒️
 ___
