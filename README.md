@@ -253,5 +253,5 @@ This is the section that provides help.
 
 
 ## `💀𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐄𝐑💀`
-<a href="https://github.com/manojnath124"><img src="https://github.com/Rushmaster12.png" width="250" height="250" alt="Rushmaster12"/></a>
+<a href="https://github.com/manojnath124"><img src="https://github.com/manojnath124.png" width="250" height="250" alt="Rushmaster12"/></a>
 
