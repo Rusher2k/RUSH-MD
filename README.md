@@ -27,7 +27,14 @@ ___
 
 <h1 align="center"> ℹ️ BOT INFO
 </p>
-  
+
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRUSH%2FMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/Rushmaster12/RUSH-MD?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/Rushmaster12/RUSH-MD?style=social)
+
+
 ##
 RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talented [RUSH MASTER](https://github.com/Rushmaster12) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
 
