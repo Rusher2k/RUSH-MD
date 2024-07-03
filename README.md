@@ -89,8 +89,8 @@ ___
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shi___
 - FORK THE REPOSITORY
 
-<a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+<a href="https://github.com/Rushmaster12/RUSH-MD/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK RUSH-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 ___
