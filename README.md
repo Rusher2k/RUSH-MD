@@ -7,7 +7,7 @@
 <p align="center">
 
 
-___
+ ___________
 
 [-](https://github.com/Rushmaster12/RUSH-MD) [ℹ️ FOLLOW FOR UPDATES
 ](https://github.com/Rushmaster12)
@@ -21,8 +21,10 @@ ___
 
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
-  
  
+ <a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ 
+
 
 <h1 align="center"> ℹ️ BOT INFO
 </p>
