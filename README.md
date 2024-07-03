@@ -11,12 +11,15 @@ ___
 
 
 
+
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT]([https://imgur.com/a/f33MxN5]())](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+[![ROMEK-XD-BOT](https://imgur.com/a/f33MxN5)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
 </p>
+
+
 > :octocat: Don't forget to check out! :point_right: [RUSH MD](https://github.com/Rushmaster12/RUSH-MD)
 
-[![RUSH-MD](https://imgur.com/a/f33MxN5)](Follow the Ethix-MD channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
+[![RUSH-MD](https://imgur.com/a/f33MxN5)](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
 </p>
 
    
