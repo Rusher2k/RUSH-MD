@@ -223,7 +223,7 @@ ___
 
 ## 💐Do you need help💐
 This is the section that provides help. 
-- [JOIN CHANNEL FOR UPDATES](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X) 
+- [JOIN WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S) 
 
 - [𝚪𝐔𝐒𝚮](https://wa.me/+917020728211) 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪☯️
 
