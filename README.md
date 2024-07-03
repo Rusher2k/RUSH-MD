@@ -12,7 +12,7 @@ ___
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT](https://graph.org/file/42dddbf821c776adb781e.jpg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+[![ROMEK-XD-BOT]([https://imgur.com/a/f33MxN5]())](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
 </p>
 > :octocat: Don't forget to check out! :point_right: [RUSH MD](https://github.com/Rushmaster12/RUSH-MD)
 
