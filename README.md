@@ -189,6 +189,12 @@ NOW Deploy👇
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 
 
+#### DEPLOY TO Toystack
+
+1. If You don't have an account in Toystack. Create an account.
+    <br>
+<p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
+
 
 
 ___
@@ -223,10 +229,6 @@ This is the section that provides help.
 
 
 - [𝚳𝚫𝚴𝚯𝐉](https://wa.me/+917005439105) 🛰 𝚳𝚫𝚴𝚯𝐉-𝚾𝐃🛰
-
-
-
-
 
 
 
