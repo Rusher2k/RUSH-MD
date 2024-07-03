@@ -16,14 +16,15 @@ ___
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT](https://telegra.ph/file/9486f552be0cd9ab233fa.jpg)](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+[![RUSH-MD-BOT](https://telegra.ph/file/9486f552be0cd9ab233fa.jpg)](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
 </p>
 
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 
  
- <a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+     <a href="https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
+
 
 
 <h1 align="center"> ℹ️ BOT INFO
