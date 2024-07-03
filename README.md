@@ -20,6 +20,8 @@ ___
 </p>
 
 
+
+
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 <a href="https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
