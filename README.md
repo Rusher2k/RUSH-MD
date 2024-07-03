@@ -3,6 +3,10 @@
 ## `⭐Star This Repo⭐` 
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0069&center=true&width=970&height=100&lines=𝗜𝗧𝗦%20𝚪𝐔𝐒𝚮-𝚳𝘿-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝚪𝐔𝐒𝚮%20𝐌𝐀𝐒𝐓𝐄𝐑)
+<p align="center">
+
+
 ___
 
 [-](https://github.com/Rushmaster12/RUSH-MD) [ℹ️ FOLLOW FOR UPDATES
@@ -248,10 +252,14 @@ This is the section that provides help.
 
 
 
-## `💀DEVELOPER💀` 
+## `🤴DEVELOPER🤴` 
 <a href="https://github.com/Rushmaster12"><img src="https://github.com/Rushmaster12.png" width="250" height="250" alt="Rushmaster12"/></a>
 
 
 ## `💀𝐒𝐔𝐏𝐏𝐎𝐑𝐓𝐄𝐑💀`
 <a href="https://github.com/manojnath124"><img src="https://github.com/manojnath124.png" width="250" height="250" alt="Rushmaster12"/></a>
 
+
+## `😎𝐇𝐄𝐋𝐏𝐄𝐑😎`
+
+[![ROMEK](https://github.com/Romeofaiz.png?size=300)](https://github.com/Romeofaiz), 
