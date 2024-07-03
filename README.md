@@ -72,16 +72,17 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 
 ## 📲`Installation Process`📲
 
+### 1. FORK THIS REPO
 
-- 💐 PAIR-CODE 💐
+<a href='https://github.com/Rushmaster12/RUSH-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
+
+- 💐 2 PAIR-CODE 💐
 
 
 <a href="https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app" target="_blank">
 <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
-
-
 
 
 
