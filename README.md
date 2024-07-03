@@ -95,8 +95,7 @@ ___
 #### DEPLOY TO HEROKU 
 
 ☉ If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shi___
+<br><a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shi___
 - FORK THE REPOSITORY
 
 <a href="https://github.com/Rushmaster12/RUSH-MD/fork" target="_blank">
