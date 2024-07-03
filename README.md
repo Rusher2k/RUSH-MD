@@ -238,7 +238,8 @@ This is the section that provides help.
 
 - [MESSAGE DEVELOPER](https://wa.me/+917020728211) 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪☯️
 
-- [MESSAGE DEVELOPER](https://wa.me/+917005439105)
+
+- [MESSAGE DEVELOPER](https://wa.me/+917005439105) 🛰 𝚳𝚫𝚴𝚯𝐉-𝚾𝐃🛰
 
 
 
@@ -264,3 +265,4 @@ This is the section that provides help.
 ## `😎𝐇𝐄𝐋𝐏𝐄𝐑😎`
 
 [![ROMEK](https://github.com/Romeofaiz.png?size=300)](https://github.com/Romeofaiz), 
+(𝐓𝐇𝐀𝐍𝐊𝐒 𝐘𝐎𝐔 𝐑𝐎𝐌𝐑𝐎𝐅𝐀𝐈𝐙 𝐁𝐇𝐀𝐈)
