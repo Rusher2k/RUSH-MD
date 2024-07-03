@@ -19,6 +19,7 @@ ___
 [![RUSH-MD-BOT](https://telegra.ph/file/9486f552be0cd9ab233fa.jpg)](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
 </p>
 
+
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 <a href="https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
@@ -28,7 +29,8 @@ ___
 <h1 align="center"> ℹ️ BOT INFO
 </p>
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRUSH%2FMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRUSH%2FMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 ![forks](https://img.shields.io/github/forks/Rushmaster12/RUSH-MD?label=Forks&style=social)
 
