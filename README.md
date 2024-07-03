@@ -12,7 +12,7 @@ ___
 
 ##  ℹ️```Bot Intro```ℹ️
 >[RUSH-MD](https://github.com/Rushmaster12/RUSH-MD) is based on :
->- [RUSH MD](https://github.com/Rushmaster12/RUSH-MD) by [Guru](https://github.com/Rushmaster12) (License: Apache License 2.0)
+>- [RUSH MD](https://github.com/Rushmaster12/RUSH-MD) by [RUSH](https://github.com/Rushmaster12) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [RUSH MD](https://github.com/Rushmaster12/RUSH-MD)
 
@@ -42,7 +42,7 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 </p>
 
 </a>
-   <a aria-label="RUSH-MD is free to use" href="Follow the Ethix-MD channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S" target="_blank">
+   <a aria-label="RUSH-MD is free to use" href="Follow channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
@@ -69,7 +69,7 @@ ___
 
 
 <a 
-href="https://www.opensourceagenda.com/projects/star-md-v2"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
+href="https://www.opensourceagenda.com/projects/RUSH-MD"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
 ---------
 
 ___
@@ -83,7 +83,7 @@ ___
 - FORK THE REPOSITORY
 
 <a href="https://github.com/Rushmaster12/RUSH-MD/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/FORK RUSH-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 ___
