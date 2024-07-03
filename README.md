@@ -52,29 +52,8 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 ---------
 
 
-#
-
-[](0) 
-
- [DO YOU NEED HELP ?](#do-you-need-help)
-___
-
-### Features
-
-- ✅ | EASY TO USE
-- ✅ | AI INTEGRATED
-- ✅ | NSFW
-- ✅ | STICKER
-- ✅ | GAMES 
-- ✅ | ANIME 
-- ✅ | TOOLS
 
 
-<a 
-href="https://www.opensourceagenda.com/projects/RUSH-MD"><img src="https://www.opensourceagenda.com/projects/star-md-v2/reviews/badge.svg" alt="Open Source Agenda"></a> 
----------
-
-___
 
 
 
@@ -149,6 +128,7 @@ ___
     <br>
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
+
 #### DEPLOY TO OKTETO
 
 If You don't have a account in Okteto. Create a account.
@@ -158,6 +138,7 @@ If You don't have a account in Okteto. Create a account.
 Now Deploy
     <br>
 <a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+
 
 #### DEPLOY TO RAILWAY
 
@@ -169,6 +150,7 @@ Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
+
 #### DEPLOY TO MONGENIUS
 
  If You don't have a account in Mongenius. Create a account.
@@ -178,6 +160,7 @@ Now Deploy
  Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
 
 #### DEPLOY TO COOLIFY
 
@@ -189,6 +172,7 @@ Now Deploy
     <br>
 <a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
+
 #### DEPLOY TO RENDER
 
  If You don't have a account in Render. Create a account.
@@ -198,6 +182,7 @@ Now Deploy
  Now Deploy
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
 
 ## `NEW DEPLOYMENT`
 NOW Deploy👇
@@ -215,9 +200,10 @@ ___
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
 ___
+
 ## 📝 `NOTE` 📝
 ___
-Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
+*`Misusing the bot may result in a ban from WhatsApp. Use at your own risk.`*
 
 
 ## `CREDITS`
@@ -240,7 +226,6 @@ This is the section that provides help.
 
 
 - [MESSAGE DEVELOPER](https://wa.me/+917005439105) 🛰 𝚳𝚫𝚴𝚯𝐉-𝚾𝐃🛰
-
 
 
 
