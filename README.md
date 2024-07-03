@@ -78,10 +78,8 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 
 
 <a href="https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app" target="_blank">
-  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+<img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
-
-
 
 
 
@@ -111,8 +109,7 @@ ___
 
 
 <a href="https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app" target="_blank">
-  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>elds.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34"></a>elds.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 ☉Now Deploy
