@@ -12,7 +12,7 @@ ___
 
 ##  ℹ️```Bot Intro```ℹ️
 >[RUSH-MD](https://github.com/Rushmaster12/RUSH-MD) is based on :
->- [RUSH MD](https://github.com/Rushmaster12/RUSH-MD) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
+>- [RUSH MD](https://github.com/Rushmaster12/RUSH-MD) by [Guru](https://github.com/Rushmaster12) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [RUSH MD](https://github.com/Rushmaster12/RUSH-MD)
 
