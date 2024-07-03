@@ -46,7 +46,7 @@ RUSH-MD is a 🌟 versatile Multi-Device< WhatsApp bot 🤖 recoded by the talen
 
 </a>
    <a aria-label="RUSH-MD is free to use" href="Follow channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S" target="_blank">
- <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Rushmaster12}/count.svg" alt="Rushmaster12:: Visitor's Count" /></p>
 
 
 
