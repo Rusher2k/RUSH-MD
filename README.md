@@ -235,9 +235,10 @@ ___
 This is the section that provides help. 
 - [TUTORIAL](https://github.com/Xcelsama/HOW-TO-DEPLOY-STAR-MD-V2) 
 - [JOIN CHANNEL FOR UPDATES](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X) 
-- [MESSAGE DEVELOPER](https://wa.me/+917020728211)
 
-[MESSAGE DEVELOPER](https://wa.me/+917005439105)
+- [MESSAGE DEVELOPER](https://wa.me/+917020728211) 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪☯️
+
+- [MESSAGE DEVELOPER](https://wa.me/+917005439105)
 
 
 
