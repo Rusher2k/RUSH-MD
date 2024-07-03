@@ -103,17 +103,6 @@ ___
 
 ___
 
-- 💐 PAIR-CODE 💐
-
-
-<a href="https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app" target="_blank">
-  <img src="https://img.shields.io/badge/PAIR CODE-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34"></a>elds.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-☉Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Rushmaster12/RUSH-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
 
 #### DEPLOY TO REPLIT
  If You don't have an account in Replit. Create a account.
