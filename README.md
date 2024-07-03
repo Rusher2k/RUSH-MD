@@ -10,10 +10,10 @@ ___
 ___
 
 
+
 ##  ℹ️```Bot Intro```ℹ️
->[RUSH-MD](https://github.com/Rushmaster12/RUSH-MD) is based on :
->- [RUSH MD](https://github.com/Rushmaster12/RUSH-MD) by [RUSH](https://github.com/Rushmaster12) (License: Apache License 2.0)
->
+[![ROMEK-XD-BOT](https://graph.org/file/42dddbf821c776adb781e.jpg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+</p>
 > :octocat: Don't forget to check out! :point_right: [RUSH MD](https://github.com/Rushmaster12/RUSH-MD)
 
 [![RUSH-MD](https://imgur.com/a/f33MxN5)](Follow the Ethix-MD channel on WhatsApp: https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
