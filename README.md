@@ -193,7 +193,7 @@ NOW Deploy👇
 
 1. If You don't have an account in Toystack. Create an account.
     <br>
-<p align="center"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
+<p align="Left"><a href="https://toystack.ai"> <img src="https://img.shields.io/badge/Toystack%20Account-blue?style=for-the-badge&logo=Toystack" width="220" height="38.45"/></a></p>
 
 
 
