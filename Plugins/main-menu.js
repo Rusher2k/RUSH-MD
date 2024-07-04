@@ -593,8 +593,7 @@ import {
 ;
 
 
-const { result, key, timeout } = await conn.sendMessage(m.chat, { video: { url: menuvid }, caption: infoText.trim()}, { quoted: fcontact })
-
+const { result, key, timeout } = await conn.sendMessage(m.chat, { image: { url: menuvid }, caption: infoText.trim()}, { quoted: fcontact })
   // Save the menu options to gurumenu
   conn.gurumenu[m.sender] = {
     result,
